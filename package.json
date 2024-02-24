@@ -1,0 +1,22 @@
+{
+  "name": "vite-plugin-dev-guides",
+  "version": "0.0.1",
+  "description": "A Vite plugin with small useful guides.",
+  "repository": "https://github.com/leoboyerbx/vite-plugin-dev-guides",
+  "homepage": "https://github.com/leoboyerbx/vite-plugin-dev-guides#readme",
+  "type": "module",
+  "exports": "./lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "vite",
+    "vite-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite-plugin-devtools-columns": "^1.0.1",
+    "vite-plugin-devtools-outline": "^1.0.0"
+  }
+}
