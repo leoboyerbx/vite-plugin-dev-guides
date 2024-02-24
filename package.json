@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-dev-guides",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Vite plugin with small useful guides.",
   "repository": "https://github.com/leoboyerbx/vite-plugin-dev-guides",
   "homepage": "https://github.com/leoboyerbx/vite-plugin-dev-guides#readme",
